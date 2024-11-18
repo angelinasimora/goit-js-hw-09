@@ -20,3 +20,15 @@
 .list-item:focus {
     transform: scale(1.05);
 }
+
+/* .sl-wrapper .sl-navigation button.sl-next {
+    color: #FFFFFF;
+}
+
+.sl-wrapper .sl-navigation button.sl-prev {
+    color: #FFFFFF;
+}
+
+.sl-wrapper button.sl-close {
+    color: #FFFFFF;
+} */
