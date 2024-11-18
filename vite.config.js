@@ -45,10 +45,4 @@ export default defineConfig(({ command }) => {
       }),
     ],
   };
-module.exports = {
-  base: '/goit-js-hw-09/',
-  build: {
-    outDir: 'dist',
-  },
-};
 });
